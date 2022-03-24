@@ -21,19 +21,19 @@ All news articles have been pulled from [newsapi](https://newsapi.org/).
 
 ### Which coin has the Highest Mean Positive Score?
 
-> ETH, with a mean positive score of 0.064550
+  > ETH, with a mean positive score of 0.064550
 
 ### Which coin has the Highest Negative Score?
 
-> BTC, with a max negative score of 0.229000
+  > BTC, with a max negative score of 0.229000
 
 ### Which coin had the Highest Positive Score?
 
-> ETH, with a max positive score of 0.299000
+  > ETH, with a max positive score of 0.299000
 
 ### Which coin had the highest compound score?
 
-> BTC, with a max compound score of 0.857300
+  > BTC, with a max compound score of 0.857300
 
 
 ## Natural Language Processing
