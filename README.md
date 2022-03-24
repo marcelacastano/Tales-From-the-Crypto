@@ -2,18 +2,20 @@
 
 ![BTC-ETH](Images/creepy-btc.jpg)
 
-In this assignment, I have applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. This should help expand our understanding of other factors involved in the behavior of coin prices, such as common words and phrases, and organizations and entities mentioned in the articles. All news articles have been pulled from [newsapi](https://newsapi.org/).
+NLP analysis on latest news articles featuring Bitcoin and Ethereum. 
 
 Here are the main language processing techniques used:
 
-1. [Sentiment Analysis](#1---Sentiment-Analysis)
-2. [Natural Language Processing](#2---Natural-Language-Processing)
-3. [Named Entity Recognition](#3---Named-Entity-Recognition)
+1. Sentiment Analysis
+2. N-Grams and Frequency Analysis
+3. Word Clouds
+4. Named Entity Recognition
 
+All news articles have been pulled from [newsapi](https://newsapi.org/).
 
-## Files
+## Source Code
 
-[Completed Notebook](crypto_sentiment.ipynb)
+[crypto_sentiment.ipynb](crypto_sentiment.ipynb)
 
 ## Sentiment Analysis
 
